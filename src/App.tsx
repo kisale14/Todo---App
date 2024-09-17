@@ -8,17 +8,17 @@ import { Header } from "./components/Header"
 const mockTodos = [
   {
     id: '1',
-    title: 'Estar enamorado de mi novia',
+    title: 'Realizar una Todo-App',
     completed: true,
   },
   {
     id: '2',
-    title: 'Hacerle cariñitos a mi nene',
+    title: 'Agregar tareas',
     completed: false,
   },
   {
     id: '3',
-    title: 'Ver a mi nene',
+    title: 'Completar tareas',
     completed: false,
   }
 ]
